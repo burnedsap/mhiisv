@@ -1,0 +1,93 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_0135EB07_15D2_1248_41A6_8CF4DE88D983.source = https://github.com/burnedsap/myhouseisill
+LinkBehaviour_0123EBF1_15D2_31C8_41AC_34B1C0E67FE2.source = https://github.com/burnedsap/myhouseisill
+LinkBehaviour_ACA7E845_BCA9_B100_41E3_A14A2D21B902.source = https://khojworkshop.org/
+LinkBehaviour_3AB5FEEE_2083_F901_417C_08CA99DCD470.source = https://khojworkshop.org/
+WebFrame_38783E6D_10FE_7928_41A0_157B1DDB7448.url = https://myhouseisill.com/
+LinkBehaviour_3A3C65F7_1026_EB38_41A2_DE946FAA25A9.source = https://myhouseisill.com/
+PopupWebFrameBehaviour_050B6381_1592_1100_41AE_D72A8C7C9F91.url = //player.vimeo.com/video/728769049
+LinkBehaviour_3AB24EEE_2083_F901_41A1_83E15FA7D011.source = https://www.google.com/maps/dir//Khoj+International+Artists+Association+S-17,+Khirkee+Extension+New+Delhi,+Delhi+110017/@28.5310723,77.2175755,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x390ce18aace5ecaf:0x86748d00e3d6452e!2m2!1d77.2175755!2d28.5310723
+LinkBehaviour_9E283BCC_BD69_5700_41B5_0B4D53B716F1.source = https://www.google.com/maps/dir//Khoj+International+Artists+Association+S-17,+Khirkee+Extension+New+Delhi,+Delhi+110017/@28.5310723,77.2175755,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x390ce18aace5ecaf:0x86748d00e3d6452e!2m2!1d77.2175755!2d28.5310723
+LinkBehaviour_9714F107_8159_7C0F_41C8_F6094C342DD1.source = https://www.shrihariproductions.com/
+LinkBehaviour_965EE835_8159_2C03_41D0_AE630A13B2E5.source = https://www.shrihariproductions.com/
+LinkBehaviour_97158102_8159_7C01_41D9_BD197445C6FD.source = https://www.shrihariproductions.com/
+LinkBehaviour_9714A108_8159_7C01_41CB_FD3B160EFEE0.source = https://www.shrihariproductions.com/
+LinkBehaviour_9713010A_8159_7C01_41C8_551D2C53E058.source = https://www.shrihariproductions.com/
+
+## Hotspot
+
+### Text
+QuadHotspotPanoramaOverlayTextImage_017E9256_15D6_32C8_41B4_A432A7715B07.text = Build your own air quality map - Follow instructions on Github
+HotspotPanoramaOverlayTextImage_0045255F_1536_76F8_41B2_4E52E95884D9.text = Click on LCD for Video Presentation
+HotspotPanoramaOverlayTextImage_0109FD16_1552_1648_41B3_FF29ADA2D266.text = Click to download PDF for more information
+QuadHotspotPanoramaOverlayTextImage_38809179_10E2_6B28_41A8_1D95E99770C7.text = Learn more about the exhibit
+
+### Tooltip
+HotspotPanoramaOverlayArea_38730326_10DE_28D8_419C_7A552AC082C3.toolTip = Click to Download PDF
+HotspotPanoramaOverlayArea_383E8EAA_10FE_7928_41A5_A545DD9C119D.toolTip = Click to Learn more about the exhibit
+HotspotPanoramaOverlayArea_397FD18D_10E2_6BE8_4175_E4EAB086581B.toolTip = Click to visit site page
+HotspotPanoramaOverlayArea_011EDF0C_152E_1258_41A5_F5076AFDEC98.toolTip = click to visit Github
+HotspotPanoramaOverlayArea_017C9259_15D6_32F8_41B0_0597C56D7EEA.toolTip = click to visit Github
+HotspotPanoramaOverlayArea_9363AB9E_8169_6C01_41DC_E543B16065B6.toolTip = go behind wall area
+HotspotPanoramaOverlayArea_90D07471_816B_6403_41DB_D1CB2AF2A748.toolTip = go behind wall area
+HotspotPanoramaOverlayArea_91940B99_8169_6C03_41D9_C454760E948C.toolTip = go inside room behind wall
+HotspotPanoramaOverlayArea_91B3C594_816B_2401_41DD_EEDFB9940731.toolTip = go this room behind wall
+
+## Media
+
+### Image
+imlevel_045E8FB5_1593_F100_4192_C6A8834B783E.url = media/panorama_1A546A60_1532_32C8_41A0_0D41F249F8FB_HS_dec01qy8_en.png
+imlevel_01A42F42_15EE_12C8_41AF_A7FE4B9CE579.url = media/panorama_1BCF41FD_1532_11B8_41AC_D07DACAFABC1_HS_a8mg9tv1_en.png
+imlevel_07392160_15EE_6EC8_41B2_9A39587BC1E8.url = media/panorama_1BCF41FD_1532_11B8_41AC_D07DACAFABC1_HS_xb25p4d8_en.png
+imlevel_0736E32A_15EE_7258_41AB_E7DE973B8769.url = media/panorama_36BCF66B_1026_E928_41AF_B95866830819_HS_hflogs0k_en.png
+
+### Title
+panorama_368F7A8D_1026_D9E8_4176_D8A102C13749.label = View Point 1
+panorama_1A546A60_1532_32C8_41A0_0D41F249F8FB.label = View Point 2
+panorama_1BCF41FD_1532_11B8_41AC_D07DACAFABC1.label = View Point 3
+panorama_376AF053_2080_6907_41BE_D3F71CAAF491.label = View Point 4
+panorama_36BCF66B_1026_E928_41AF_B95866830819.label = View Point 5
+
+## Popup
+
+### Body
+htmlText_3838DE32_10E6_3938_418A_D82C75E8248A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Learn more about the exhibit</SPAN></DIV></BODY></HTML></div>
+
+## Right Click Menu
+
+### Text
+TDVAuthor.label = Powered by Shri Hari Productions
+
+## Skin
+
+### Image
+Image_9F2B6A68_BD69_B100_41D2_0903B9DDA26C.url = skin/Image_9F2B6A68_BD69_B100_41D2_0903B9DDA26C_en.png
+Image_9F2B6A68_BD69_B100_41D2_0903B9DDA26C_mobile.url = skin/Image_9F2B6A68_BD69_B100_41D2_0903B9DDA26C_mobile_en.png
+Image_B3D3E185_BC97_5300_41D0_B43A2E4AA680.url = skin/Image_B3D3E185_BC97_5300_41D0_B43A2E4AA680_en.png
+Image_B3D3E185_BC97_5300_41D0_B43A2E4AA680_mobile.url = skin/Image_B3D3E185_BC97_5300_41D0_B43A2E4AA680_mobile_en.png
+
+### Multiline Text
+HTMLText_D1A90349_C1CD_2949_41AD_78421E10F321.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
+HTMLText_D1A90349_C1CD_2949_41AD_78421E10F321_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.5px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+Image_9F2B6A68_BD69_B100_41D2_0903B9DDA26C_mobile.toolTip = Clcik to visit our Location Map
+Image_9F2B6A68_BD69_B100_41D2_0903B9DDA26C.toolTip = Clcik to visit our Location Map
+Image_B3D3E185_BC97_5300_41D0_B43A2E4AA680_mobile.toolTip = Clcik to visit our Website
+Image_B3D3E185_BC97_5300_41D0_B43A2E4AA680.toolTip = Clcik to visit our Website
+ThumbnailList_D6ABA1E1_C1DF_6979_41B1_A0BDE06933BC.toolTip = Panorama List click to go directly on that Area
+ThumbnailList_D6ABA1E1_C1DF_6979_41B1_A0BDE06933BC_mobile.toolTip = Panorama List click to go directly on that Area
+
+## Tour
+
+### Description
+tour.description = KHOJ INTERNATIONAL ARTISTS' ASSOCIATION \
+S-17, KHIRKEE EXTENSION, \
+NEW DELHI - 110017
+
+### Title
+tour.name = Khoj Show
